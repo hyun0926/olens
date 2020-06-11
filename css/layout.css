@@ -1572,7 +1572,7 @@ section h3.title {
 
 .best-review-wrap .find-lens-wrap {
 	height: 100px;
-	background: url("../images/find_lens_bg.jpg") no-repeat;
+	background: url("../images/find_lens_bg.jpg") no-repeat center;
 }
 
 .best-review-wrap .find-lens-wrap .cell {
